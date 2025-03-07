@@ -1,6 +1,9 @@
 # SocialBook-Goat
 
-![Contributors][contributors-shield] ![Stargazers][stars-shield] ![MIT License][license-shield] ![LinkedIn][linkedin-shield]
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <div align="center">
